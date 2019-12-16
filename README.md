@@ -3,8 +3,8 @@
 
 ### Summary:
 This system queries the status of the systems and drives a LED strip depending on the results of this query.    
-    
-![alt tag](https://github.wdf.sap.corp/storage/user/24134/files/94ed7a6e-3b0c-11e7-8b16-ff44ac28b0d9)
+
+![alt tag](https://user-images.githubusercontent.com/25906706/28717277-67d1fb68-73a1-11e7-89c2-a494f6e1f116.jpeg)
 
 ### Tools:
 * [Raspberry Pi3 Model:B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) with [Raspbian operating system](https://www.raspbian.org/)
@@ -30,7 +30,6 @@ This system queries the status of the systems and drives a LED strip depending o
 * Press **Start** button to run the LEDs according to your configurations
 * Press **Stop** button to turn off the LEDs
 
-![alt tag](https://github.wdf.sap.corp/storage/user/24134/files/d5fdab74-3b06-11e7-9c08-c67fb7d93568)
 
 ### Notes:
 * The application generates database file called **config** where all user inputs are stored. 
